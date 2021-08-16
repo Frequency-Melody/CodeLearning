@@ -1,2 +1,2 @@
 # CodeLearning
-Something maybe easy but important to me for a beginner's state.
+Something maybe easy but important to me form a beginner's state.
